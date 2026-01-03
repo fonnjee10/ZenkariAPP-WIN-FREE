@@ -1,6 +1,4 @@
 
-ZenkariApp - Messagerie Sécurisée
-ZenkariApp Logo
 
 ZenkariApp est une application de messagerie sécurisée avec chiffrement de bout en bout utilisant RSA-3072 et AES-256.
 
