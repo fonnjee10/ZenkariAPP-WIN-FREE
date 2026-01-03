@@ -1,4 +1,4 @@
-
+# ZenkariAPP-WIN-FREE
 
 ZenkariApp est une application de messagerie sécurisée avec chiffrement de bout en bout utilisant RSA-3072 et AES-256.
 
@@ -21,4 +21,4 @@ Prérequis
 Python 3.8+
 Node.js (pour le frontend si vous utilisez un framework JS)
 pip (gestionnaire de paquets Python)
-###Télécharger le document en (.exe) (ZK9.6.2F.exe) pour utilisé le logiciel# ZenkariAPP-WIN-FREE
+###Télécharger le document en (.exe) (ZK9.6.7F.exe) pour utilisé le logiciel
