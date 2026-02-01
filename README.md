@@ -20,7 +20,7 @@ Licence
 -💻 Technologies
 Frontend: HTML5, CSS3, JavaScript
 Backend: Python (Flask/Django )
-Chiffrement: PyCryptodome (RSA-3072, AES-256, SHA-256)
+Chiffrement: PyCryptodome (RSA-3072, AES-256, SHA-512)
 Base de données: SQLite
 QR Codes: qrcode et Pillow
 -Installation
