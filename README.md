@@ -28,4 +28,4 @@ Prérequis
 Python 3.8+
 Node.js (pour le frontend si vous utilisez un framework JS)
 pip (gestionnaire de paquets Python)
-###Télécharger le logiciel en (.exe) (ZK9.8.0F.exe) pour utilisé le logiciel
+###Télécharger le logiciel en (.exe) (ZK9.8.9F.exe) pour utilisé le logiciel
